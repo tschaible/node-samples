@@ -1,0 +1,13 @@
+{
+  "name": "how-to-npm",
+  "version": "1.0.1",
+  "description": "project for nodeschool.io tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Tom Schaible",
+  "license": "ISC",
+  "dependencies": {},
+  "repository": "https://github.com/tschaible/node-samples"
+}
