@@ -1,0 +1,22 @@
+{
+  "name": "expressworks",
+  "version": "1.0.0",
+  "description": "Solutions for the nodeschool.io expressworks tutorial",
+  "main": "helloworld.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tschaible/node-samples.git"
+  },
+  "author": "Tom Schaible",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tschaible/node-samples/issues"
+  },
+  "homepage": "https://github.com/tschaible/node-samples",
+  "dependencies": {
+    "express": "^4.12.0"
+  }
+}
