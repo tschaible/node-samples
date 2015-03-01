@@ -5,7 +5,8 @@
   "main": "program.js",
   "dependencies": {
     "bl": "^0.9.4",
-    "strftime": "^0.8.2"
+    "strftime": "^0.8.2",
+    "through2-map": "^1.4.0"
   },
   "devDependencies": {},
   "scripts": {
