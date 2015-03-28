@@ -19,6 +19,8 @@
   "dependencies": {
     "bunyan": "^1.3.4",
     "jstrace": "^0.3.0",
+    "replify": "^1.2.0",
+    "replpad": "^0.13.0",
     "stackup": "^1.0.0",
     "tape": "^3.5.0"
   }
